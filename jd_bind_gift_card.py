@@ -207,4 +207,3 @@ class JDBindGiftCard(object):
 if __name__ == '__main__':
     jd = JDBindGiftCard()
     jd.start_bind()
-    # jd.loadXlsx()
